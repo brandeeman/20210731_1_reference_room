@@ -1,0 +1,68 @@
+*웹 접근성 규칙이 있다. : 불편한 분들. 안 지키면 벌금.
+
+---
+
+*설치
+-node js
+-visual studio code
+
+---
+
+*교재 : 웹 프로그래밍
+*교재 : 19p
+
+---
+
+왼쪽 블록 모양 : EXTENSIONS : 확장 프로그램 -> 전 세계 개발자들의 open source
+
+*Open Source란? 공짜
+
+-
+
+*EXTENSION
+-설치 : HTML CSS Support : Css 도움.
+-설치 : HTML Snippets : 코드 짤 때 도움. Snippets이란? 자동 미리 코드 등록 기능
+-설치 : Beautify : 코드를 예쁘게 정렬
+-설치 : Prettier-code formatter : 일관적인 코드 스타일 유지
+-설치 : Live Server : 익스플로러 창을 쉽게 띄어준다. 
+
+-
+
+file - preference - setting
+
+(검색 : format)
+
+Editor : Default Formatter : Beautify
+Editor : Format On Save : 체크
+
+*file - prference - setting - Prettier
+-Edit in settings.json
+-editor.formatOnSave : true 확인
+
+-----------
+
+*격식 만들어 등록하는 법
+file - prference - user snippet : 등록해서 쓸 수 있다.
+
+검색 : html
+(html.json)
+-
+자바스크립트 수업 때 사용
+
+----------
+
+Open With Live Server(단축키 : alt + o)
+-익스플로러를 열어준다.
+-주소 -> 도메인화(알아보기 편하게
+
+----------
+
+*File - Open folder
+
+파일 만들기 : 001.html
+
+파일 안 : 
+-html: 5 선택
+-h 엔터만 쳐도 -> <h1></h1> 생성
+
+----------

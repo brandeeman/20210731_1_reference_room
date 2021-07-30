@@ -1,0 +1,57 @@
+*참고 : 라이센스를 반드시 확인해라.
+
+---
+
+*mozilla css
+https://developer.mozilla.org/ko/docs/Learn/CSS/CSS_layout/Introduction
+
+모질라 검색법 : mozilla css background
+
+---
+
+*css, javacript, frontend 정보들 얻는 법 (정기적으로 이메일을 보낸준다.)
+
+-cssweekly : 새로 나온 css를 보낸준다.
+-javascript weekly
+-frontend focus weekly
+
+---
+
+*폰트
+-fontawesome
+
+구글 검색 : fontawesome cdn
+(실제 글씨인데 문자로 보인다. : 'SVG'라고 한다.)
+
+---
+
+*아이콘
+-구글 아이콘 사이트(무료) : material.io : https://material.io/design
+-기업용 아이콘(무료. 유료) : iconfont.io
+
+---
+
+*색깔
+-color picker : 색깔의 RGB, HEX 값 등을 알 수 있다.
+-color pallet : 이미지를 업로드하여 색깔 파악 가능
+-colorZilla(확장 프로그램) : 인터넷 색깔을 알 수 있다.
+
+---
+
+*무료 이미지(사진). 일러스트
+-freepik(이미지. 일러스트)
+-unsplash(이미지. 일러스트)
+
+---
+
+*html 이력서
+무료 : https://teconce.com/item/rezyme-cv-resume-template/
+유료 : https://wrapbootstrap.com/theme/minfolio-personal-resume-portfolio-WB0H0MGS6
+
+*부트스트랩
+무료 : (포트폴리오 템플릿)https://themesdesign.in/dirio/index-wb.html
+(유료)돈 주고 사지만 좋은 사이트 : https://wrapbootstrap.com/
+
+*crypto
+https://wrapbootstrap.com/search?q=crypto
+*마음에 드는 crypto : https://wrapbootstrap.com/theme/icocoin-cryptocurrency-html-template-WB0D5439F

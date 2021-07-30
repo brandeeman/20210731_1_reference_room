@@ -1,0 +1,4 @@
+*mozilla css
+https://developer.mozilla.org/ko/docs/Learn/CSS/CSS_layout/Introduction
+
+모질라 검색법 : mozilla css background
